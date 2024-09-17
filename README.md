@@ -7,29 +7,29 @@
 
 Ход работы:
 
-![Добавление файла через гитхаб](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S0.png)
+![Добавление файла через гитхаб](screenshots/S0.png)
 
-![Клонирование репозитория](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S1.png)
+![Клонирование репозитория](screenshots/S1.png)
 
-![Вывод информации о ветке](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S1_1.png)
+![Вывод информации о ветке](screenshots/S1_1.png)
 
-![Пулл загруженного файла](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S2.png)
+![Пулл загруженного файла](screenshots/S2.png)
 
-![Вывод изменений](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S2_1.png)
+![Вывод изменений](screenshots/S2_1.png)
 
-![Сливание веток,_информация о конфликте](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S3.png)
+![Сливание веток,_информация о конфликте](screenshots/S3.png)
 
-![Успешное сливание веток](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S4.png)
+![Успешное сливание веток](screenshots/S4.png)
 
-![Удаление ветки](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S5.png)
+![Удаление ветки](screenshots/S5.png)
 
-![Комит изменений](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S6.png)
+![Комит изменений](screenshots/S6.png)
 
-![Отмена коммита](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S7.png)
+![Отмена коммита](screenshots/S7.png)
 
-![Создание новой ветки](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S8.png)
+![Создание новой ветки](screenshots/S8.png)
 
-![Коммиты изменений отчёта](/home/galetka/Documents/STUDY/OP/LR6/screenshots/S9.png)     
+![Коммиты изменений отчёта](screenshots/S9.png)     
 
 Лог коммитов:
 `4ecee9f 2024-09-17 4314 Галета М.А Последнее исправление отчёта
